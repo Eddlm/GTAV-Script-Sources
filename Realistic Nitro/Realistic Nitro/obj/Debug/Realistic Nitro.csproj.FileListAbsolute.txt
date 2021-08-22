@@ -1,0 +1,6 @@
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\bin\Debug\Realistic Nitro.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\bin\Debug\Realistic Nitro.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\bin\Debug\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\obj\Debug\Realistic Nitro.csprojResolveAssemblyReference.cache
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\obj\Debug\Realistic Nitro.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\obj\Debug\Realistic Nitro.pdb

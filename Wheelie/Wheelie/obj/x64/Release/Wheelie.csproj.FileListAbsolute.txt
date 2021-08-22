@@ -1,0 +1,6 @@
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Wheelie\Wheelie\obj\x64\Release\Wheelie.csprojResolveAssemblyReference.cache
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Wheelie\Wheelie\bin\x64\Release\BurnoutWheelie.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Wheelie\Wheelie\bin\x64\Release\BurnoutWheelie.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Wheelie\Wheelie\bin\x64\Release\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Wheelie\Wheelie\obj\x64\Release\BurnoutWheelie.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Wheelie\Wheelie\obj\x64\Release\BurnoutWheelie.pdb

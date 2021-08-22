@@ -1,0 +1,5 @@
+d:\mis archivos\documentos\visual studio 2015\Projects\Weather Forecast\Weather Forecast\bin\Debug\Weather Forecast.dll
+d:\mis archivos\documentos\visual studio 2015\Projects\Weather Forecast\Weather Forecast\bin\Debug\Weather Forecast.pdb
+d:\mis archivos\documentos\visual studio 2015\Projects\Weather Forecast\Weather Forecast\bin\Debug\ScriptHookVDotNet.dll
+d:\mis archivos\documentos\visual studio 2015\Projects\Weather Forecast\Weather Forecast\obj\Debug\Weather Forecast.dll
+d:\mis archivos\documentos\visual studio 2015\Projects\Weather Forecast\Weather Forecast\obj\Debug\Weather Forecast.pdb

@@ -1,0 +1,6 @@
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\bin\Debug\GTA V Script Template1.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\bin\Debug\GTA V Script Template1.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\bin\Debug\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\obj\Debug\RandomCarTheftMissions.csprojResolveAssemblyReference.cache
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\obj\Debug\GTA V Script Template1.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\obj\Debug\GTA V Script Template1.pdb

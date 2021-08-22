@@ -1,0 +1,6 @@
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\bin\Debug\Tow Service.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\bin\Debug\Tow Service.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\bin\Debug\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\obj\Debug\Tow Service.csprojResolveAssemblyReference.cache
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\obj\Debug\Tow Service.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\obj\Debug\Tow Service.pdb

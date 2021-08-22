@@ -1,0 +1,11 @@
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Delivery Man\ScriptProjectTemplate\bin\x64\Release\ScriptProjectTemplate.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Delivery Man\ScriptProjectTemplate\bin\x64\Release\ScriptProjectTemplate.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Delivery Man\ScriptProjectTemplate\bin\x64\Release\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Delivery Man\ScriptProjectTemplate\obj\x64\Release\ScriptProjectTemplate.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Delivery Man\ScriptProjectTemplate\obj\x64\Release\ScriptProjectTemplate.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\GoPostal\ScriptProjectTemplate\bin\x64\Release\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\GoPostal\ScriptProjectTemplate\obj\x64\Release\ScriptProjectTemplate.csprojResolveAssemblyReference.cache
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\GoPostal\ScriptProjectTemplate\bin\x64\Release\GoPostalDeliveries.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\GoPostal\ScriptProjectTemplate\bin\x64\Release\GoPostalDeliveries.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\GoPostal\ScriptProjectTemplate\obj\x64\Release\GoPostalDeliveries.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\GoPostal\ScriptProjectTemplate\obj\x64\Release\GoPostalDeliveries.pdb

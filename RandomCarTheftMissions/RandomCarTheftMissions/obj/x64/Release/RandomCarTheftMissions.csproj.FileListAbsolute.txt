@@ -1,0 +1,6 @@
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\bin\x64\Release\CarTheftMissions.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\bin\x64\Release\CarTheftMissions.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\bin\x64\Release\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\obj\x64\Release\CarTheftMissions.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\obj\x64\Release\CarTheftMissions.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\RandomCarTheftMissions\RandomCarTheftMissions\obj\x64\Release\RandomCarTheftMissions.csprojResolveAssemblyReference.cache

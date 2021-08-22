@@ -1,0 +1,6 @@
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\DisarmExtended\DisarmExtended\bin\Debug\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\DisarmExtended\DisarmExtended\bin\Debug\DisarmExtended.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\DisarmExtended\DisarmExtended\bin\Debug\DisarmExtended.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\DisarmExtended\DisarmExtended\obj\Debug\DisarmExtended.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\DisarmExtended\DisarmExtended\obj\Debug\DisarmExtended.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\DisarmExtended\DisarmExtended\obj\Debug\DisarmExtended.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\Debug\Advanced Bodyguards.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\Debug\Advanced Bodyguards.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\Debug\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\obj\Debug\Advanced Bodyguards.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\obj\Debug\Advanced Bodyguards.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\Debug\NativeUI.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\obj\Debug\Advanced Bodyguards.csprojResolveAssemblyReference.cache

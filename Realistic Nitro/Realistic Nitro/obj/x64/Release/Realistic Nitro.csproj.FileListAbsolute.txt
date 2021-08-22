@@ -1,0 +1,14 @@
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\bin\x64\Release\Realistic Nitro.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\bin\x64\Release\Realistic Nitro.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\bin\x64\Release\NativeUI.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\bin\x64\Release\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\obj\x64\Release\Realistic Nitro.csprojResolveAssemblyReference.cache
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\obj\x64\Release\Realistic Nitro.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\obj\x64\Release\Realistic Nitro.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\obj\x64\Release\Realistic Nitro.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\obj\x64\Release\Realistic Nitro.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\bin\x64\Release\Realistic Nitro.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\bin\x64\Release\Realistic Nitro.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\bin\x64\Release\NativeUI.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\bin\x64\Release\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Realistic Nitro\Realistic Nitro\obj\x64\Release\Realistic Nitro.csprojResolveAssemblyReference.cache

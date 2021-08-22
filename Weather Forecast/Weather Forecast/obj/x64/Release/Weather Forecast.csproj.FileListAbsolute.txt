@@ -1,0 +1,6 @@
+d:\Mis Archivos\Documentos\Visual Studio 2015\Projects\Weather Forecast\Weather Forecast\bin\x64\Release\Weather Forecast.dll
+d:\Mis Archivos\Documentos\Visual Studio 2015\Projects\Weather Forecast\Weather Forecast\bin\x64\Release\Weather Forecast.pdb
+d:\Mis Archivos\Documentos\Visual Studio 2015\Projects\Weather Forecast\Weather Forecast\bin\x64\Release\ScriptHookVDotNet.dll
+d:\Mis Archivos\Documentos\Visual Studio 2015\Projects\Weather Forecast\Weather Forecast\obj\x64\Release\Weather Forecast.dll
+d:\Mis Archivos\Documentos\Visual Studio 2015\Projects\Weather Forecast\Weather Forecast\obj\x64\Release\Weather Forecast.pdb
+d:\Mis Archivos\Documentos\Visual Studio 2015\Projects\Weather Forecast\Weather Forecast\obj\x64\Release\Weather Forecast.csprojResolveAssemblyReference.cache

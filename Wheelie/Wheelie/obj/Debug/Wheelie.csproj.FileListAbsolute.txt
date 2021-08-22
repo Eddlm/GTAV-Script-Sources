@@ -1,0 +1,5 @@
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Wheelie\Wheelie\bin\Debug\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Wheelie\Wheelie\bin\Debug\BurnoutWheelie.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Wheelie\Wheelie\bin\Debug\BurnoutWheelie.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Wheelie\Wheelie\obj\Debug\BurnoutWheelie.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Wheelie\Wheelie\obj\Debug\BurnoutWheelie.pdb

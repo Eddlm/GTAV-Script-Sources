@@ -1,0 +1,14 @@
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\bin\x64\Debug\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\obj\x64\Debug\HollywoodRoll.csprojResolveAssemblyReference.cache
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\bin\x64\Debug\Utilities.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\bin\x64\Debug\HollywoodRollover.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\bin\x64\Debug\HollywoodRollover.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\obj\x64\Debug\HollywoodRollover.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\obj\x64\Debug\HollywoodRollover.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\bin\x64\Debug\HollywoodRollover.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\bin\x64\Debug\HollywoodRollover.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\bin\x64\Debug\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\bin\x64\Debug\Utilities.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\obj\x64\Debug\HollywoodRollover.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\obj\x64\Debug\HollywoodRollover.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\HollywoodRoll\HollywoodRoll\obj\x64\Debug\HollywoodRoll.csprojResolveAssemblyReference.cache

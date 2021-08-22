@@ -1,0 +1,15 @@
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\x64\Release\Advanced Bodyguards.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\x64\Release\Advanced Bodyguards.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\x64\Release\NativeUI.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\x64\Release\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\obj\x64\Release\Advanced Bodyguards.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\obj\x64\Release\Advanced Bodyguards.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\obj\x64\Release\Advanced Bodyguards.csprojResolveAssemblyReference.cache
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\x64\Release\UtilityFunctions.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\x64\Release\NativeUI.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\x64\Release\ScriptHookVDotNet2.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\x64\Release\Advanced Bodyguards.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\bin\x64\Release\Advanced Bodyguards.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\obj\x64\Release\Advanced Bodyguards.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\obj\x64\Release\Advanced Bodyguards.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Advanced Bodyguards\Advanced Bodyguards\obj\x64\Release\Advanced Bodyguards.csprojResolveAssemblyReference.cache

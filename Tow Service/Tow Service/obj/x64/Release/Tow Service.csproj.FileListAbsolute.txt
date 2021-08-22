@@ -1,0 +1,12 @@
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\bin\x64\Release\Tow Service.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\bin\x64\Release\Tow Service.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\bin\x64\Release\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\obj\x64\Release\Tow Service.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\obj\x64\Release\Tow Service.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\Tow Service\Tow Service\obj\x64\Release\Tow Service.csprojResolveAssemblyReference.cache
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Tow Service\Tow Service\bin\x64\Release\Tow Service.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Tow Service\Tow Service\bin\x64\Release\Tow Service.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Tow Service\Tow Service\bin\x64\Release\ScriptHookVDotNet.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Tow Service\Tow Service\obj\x64\Release\Tow Service.dll
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Tow Service\Tow Service\obj\x64\Release\Tow Service.pdb
+D:\Mis Archivos\Proyectos\Mods\GTAVScripting\ScriptProjects\Tow Service\Tow Service\obj\x64\Release\Tow Service.csprojResolveAssemblyReference.cache
